@@ -15,4 +15,9 @@
 .whitecolor {
     color: #fff;
 }
-
+.pad {
+    padding-top: 60px;
+}
+.nobullet{
+  list-style-type: none;
+}
