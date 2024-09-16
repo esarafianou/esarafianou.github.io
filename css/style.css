@@ -1,0 +1,23 @@
+.contacticon .contacttext {
+    padding: 10px;
+    display: none;
+}
+.contacticon:hover .contacttext {
+    display: block;
+}
+.avatar {
+    background-repeat: no-repeat;
+    background-position: 50%;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+.whitecolor {
+    color: #fff;
+}
+.pad {
+    padding-top: 60px;
+}
+.nobullet{
+  list-style-type: none;
+}
